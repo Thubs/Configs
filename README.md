@@ -1,6 +1,6 @@
 # flashy
 
-path: /home/ (insert user here) /.config/neofetch
+/.config/neofetch
 
 flashy version of the minimal config
 
@@ -20,6 +20,6 @@ the auto function doesn't work with these settings for whatever reason and it ju
 
 # bpytop
 
-path: /home/ (insert user here) /.config/bpytop
+/.config/bpytop
 
 just swap the bpytop config that I have for the one you have.
