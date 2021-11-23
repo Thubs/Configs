@@ -23,3 +23,10 @@ the auto function doesn't work with these settings for whatever reason and it ju
 /.config/bpytop
 
 just swap the bpytop config that I have for the one you have.
+
+
+# Bashtop
+
+/.config/bashtop
+
+follow the instructions for bpytop they're pretty similiar
