@@ -2,7 +2,7 @@
 
 /.config/neofetch
 
-flashy version of the minimal config
+flashy version of the minimal neofetch config
 
 just follow the instuctions for the minimal config
 
