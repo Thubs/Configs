@@ -30,3 +30,7 @@ just swap the bpytop config that I have for the one you have.
 /.config/bashtop
 
 follow the instructions for bpytop they're pretty similiar
+
+# How to help
+
+submit any config files which you want added to this repo
