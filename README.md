@@ -1,4 +1,4 @@
-# flashy
+# Flashy
 
 /.config/neofetch
 
@@ -18,7 +18,7 @@ you will need to go to "/.config/neofetch" and save this config file and remove 
 
 the auto function doesn't work with these settings for whatever reason and it just shows a distorted tux penguin
 
-# bpytop
+# Bpytop
 
 /.config/bpytop
 
