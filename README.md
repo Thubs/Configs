@@ -1,6 +1,6 @@
 # Flashy
 
-**_/.config/neofetch_**
+## **_/.config/neofetch_**
 
 flashy version of the minimal neofetch config
 
@@ -20,14 +20,14 @@ the auto function doesn't work with these settings for whatever reason and it ju
 
 # Bpytop
 
-**_/.config/bpytop_**
+## **_/.config/bpytop_**
 
 just swap the bpytop config that I have for the one you have.
 
 
 # Bashtop
 
-**_/.config/bashtop_**
+## **_/.config/bashtop_**
 
 follow the instructions for bpytop they're pretty similiar
 
