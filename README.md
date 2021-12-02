@@ -1,12 +1,6 @@
-# Flashy
+# My linux configs
 
-## **_/.config/neofetch_**
-
-flashy version of the minimal neofetch config
-
-just follow the instuctions for the minimal config
-
-# config.conf
+## config.conf (Minimal)
 
 my minimal neofetch config
 
@@ -18,19 +12,28 @@ you will need to go to "**_/.config/neofetch_**" and save this config file and r
 
 the auto function doesn't work with these settings for whatever reason and it just shows a distorted tux penguin
 
-# Bpytop
+## Flashy
 
-## **_/.config/bpytop_**
+**_/.config/neofetch_**
+
+flashy version of the minimal neofetch config
+
+just follow the instuctions for the minimal config
+
+
+## Bpytop
+
+**_/.config/bpytop_**
 
 just swap the bpytop config that I have for the one you have.
 
 
-# Bashtop
+## Bashtop
 
-## **_/.config/bashtop_**
+**_/.config/bashtop_**
 
 follow the instructions for bpytop they're pretty similiar
 
-# How to help
+## How to help
 
 submit any config files which you want added to this repo with a pull request or open an issue if you want a spific programs config
