@@ -18,15 +18,15 @@ the auto function doesn't work with these settings for whatever reason and it ju
 
 flashy version of the minimal neofetch config
 
-just follow the instuctions for the minimal config
+go down to line 723 and change the Ascii distro unless you want to keep the Arcolinux logo there are lot's of commenting and I would recommend customising the config
 
+just follow the instuctions for the minimal config
 
 ## Bpytop
 
 **_/.config/bpytop_**
 
 just swap the bpytop config that I have for the one you have.
-
 
 ## Bashtop
 
