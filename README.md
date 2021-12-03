@@ -20,6 +20,8 @@ flashy version of the minimal neofetch config
 
 go down to line 723 and change the Ascii distro unless you want to keep the Arcolinux logo there are lot's of commenting and I would recommend customising the config
 
+Change the files name to **config.conf**
+
 just follow the instuctions for the minimal config
 
 ## Bpytop
