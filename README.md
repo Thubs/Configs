@@ -1,6 +1,6 @@
 # My linux configs
 
-## config.conf (Minimal)
+## config.conf (Minimal neofetch)
 
 my minimal neofetch config
 
