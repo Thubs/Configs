@@ -38,4 +38,4 @@ follow the instructions for bpytop they're pretty similiar
 
 ## How to help
 
-submit any config files which you want added to this repo with a pull request or open an issue if you want a spific programs config
+submit any config files which you want added to this repo with a pull request or open an issue if you want a spicific programs config
