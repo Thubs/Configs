@@ -1,5 +1,6 @@
 # My linux configs
 
+
 ## config.conf (Minimal neofetch)
 
 my minimal neofetch config
@@ -11,6 +12,7 @@ go down to line 723 and change the Ascii distro unless you want to keep the smal
 you will need to go to "**_/.config/neofetch_**" and save this config file and remove you're old config file
 
 the auto function doesn't work with these settings for whatever reason and it just shows a distorted tux penguin
+
 
 ## Flashy
 
@@ -24,17 +26,20 @@ change the files name to **config.conf**
 
 just follow the instuctions for the minimal config
 
+
 ## Bpytop
 
 **_/.config/bpytop_**
 
 just swap the bpytop config that I have for the one you have
 
+
 ## Bashtop
 
 **_/.config/bashtop_**
 
 follow the instructions for bpytop they're pretty similiar
+
 
 ## How to help
 
