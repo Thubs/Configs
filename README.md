@@ -1,5 +1,6 @@
 # My linux configs
 
+These are all just my personal taste and the only reason it is public is so that I don't have to log in to access it, these are all unorganized and I don't see that changing any time soon. I have added instructions for what you need to do if you want to use any of my configs feel free to add suggestions in **_issues_**. 
 
 ## config.conf (Minimal neofetch)
 
@@ -40,6 +41,9 @@ just swap the bpytop config that I have for the one you have
 
 follow the instructions for bpytop they're pretty similiar
 
+## OBS Studio
+
+OBS studio has multiple files that are needed for it to work(**_untitled.json_**, **_basic.ini_**, **_services.json_** and **twitch_ingests.json**), **_untitled.json_** replaces **_/home/thubs/.config/obs-studio/basic/profiles/Untitled/basic.ini_**, **_basic.ini_** replaces **_/home/thubs/.config/obs-studio/global.ini_**, **_services.json_** replaces **_/home/thubs/.config/obs-studio/basic/scenes/Untitled.json_** and **twitch_ingests.json** replaces **_/home/thubs/.config/obs-studio/plugin_config/rtmp-services/twitch_ingests.json_**. Apologies for the wall of text
 
 ## How to help
 
