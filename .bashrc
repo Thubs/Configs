@@ -122,5 +122,6 @@ fi
 # make a custom name with custom color
 export PS1="\[\e[31m\][\[\e[m\]\[\e[33m\]\u\[\e[m\]\[\e[32m\]@\[\e[m\]\[\e[36m\]\h\[\e[m\]\[\e[35m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\[\e[31m\]:\[\e[m\]\[\e[31m\]-\[\e[m\] "
 
+# uncomment either of these programs to have them run when opening the terminal
 #neofetch
 #uwufetch
