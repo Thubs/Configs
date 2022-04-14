@@ -116,12 +116,36 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# autocd is used to get this automatically change directory without using the cd command
-[ "${BASH_VERSINFO[0]}" -ge 4 ] && shopt -s autocd
+# automatic cd when using the name of a directory
+[ "${BASH_VERSINFO[0]}" -ge 4 ] && shopt -s autocd 2> /dev/null
 
 # make a custom name with custom color
 export PS1="\[\e[31m\][\[\e[m\]\[\e[33m\]\u\[\e[m\]\[\e[32m\]@\[\e[m\]\[\e[36m\]\h\[\e[m\]\[\e[35m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\[\e[31m\]:\[\e[m\]\[\e[31m\]-\[\e[m\] "
 
-# uncomment either of these programs to have them run when opening the terminal
 #neofetch
 #uwufetch
+
+echo -e "
+ Play some games 
+ Ninvaders - Space invaders 
+ Nsnake - Snake 
+ Petris - Tetris 
+ Pacman4console - pacman
+ adventure: the original adventure by Crowther and Woods
+ arithmetic: asks you to do simple calculations
+ atc: air traffic control simulator
+ battlestar: a tropical adventure
+ caesar: performs rotated-alphabet cryptography (like rot13)
+ cribbage: cribbage card game
+ dab: dots and boxes
+ drop4: tetromino packing game
+ gofish: go fish card game
+ gomoku: connect-5 version of tic-tac-toe
+ hangman: guess the word before it is too late
+ klondike: curses-based solitaire
+ robots: avoid the evil robots
+ sail: sail your ship into battle
+ snake: grab the cash, avoid the snake, and exit
+ spirhunt: hunt space pirates
+ worm: eat the numbers without running into anything
+ wump: hunt the wumpus "
