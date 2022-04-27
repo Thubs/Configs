@@ -1,6 +1,6 @@
 # My linux configs
 
-These are all just my personal taste and the only reason it is public is so that I don't have to log in to access it, these are all unorganized and I don't see that changing any time soon. I have added instructions for what you need to do if you want to use any of my configs feel free to add suggestions in **_issues_**. 
+These are all just my personal taste and the only reason it is public is so that I don't have to log in to access it, these are all unorganized and I don't see that changing any time soon. I have added instructions for what you need to do if you want to use any of my configs feel free to add suggestions in **_issues_**. You will find Neofetch , bpy/bashtop in misc
 
 ## config.conf (Minimal neofetch)
 
