@@ -43,7 +43,9 @@ follow the instructions for bpytop they're pretty similiar
 
 ## OBS Studio
 
-OBS studio has multiple files that are needed for it to work(**_untitled.json_**, **_basic.ini_**, **_services.json_** and **twitch_ingests.json**), **_untitled.json_** replaces **_/home/thubs/.config/obs-studio/basic/profiles/Untitled/basic.ini_**, **_basic.ini_** replaces **_/home/thubs/.config/obs-studio/global.ini_**, **_services.json_** replaces **_/home/thubs/.config/obs-studio/basic/scenes/Untitled.json_** and **twitch_ingests.json** replaces **_/home/thubs/.config/obs-studio/plugin_config/rtmp-services/twitch_ingests.json_**. Apologies for the wall of text
+OBS studio has multiple files that are needed for it to work(**_untitled.json_**, **_basic.ini_**, **_services.json_** and **twitch_ingests.json**), **_untitled.json_** replaces **_/home/thubs/.config/obs-studio/basic/profiles/Untitled/basic.ini_**, **_basic.ini_** replaces **_/home/thubs/.config/obs-studio/global.ini_**, **_services.json_** replaces **_/home/thubs/.config/obs-studio/basic/scenes/Untitled.json_** and **twitch_ingests.json** replaces **_/home/thubs/.config/obs-studio/plugin_config/rtmp-services/twitch_ingests.json_**.
+
+My apologies for the wall of text
 
 ## .Bashrc/.profile
 
